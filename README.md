@@ -1,15 +1,6 @@
-# Marvel Duo
+# Marvel Tinder Project
 
-A front end project to practice development using Bootstrap.
-This project uses Bootstrap to create a parody dating app but for players of the popular
-hero shooter Marvel Rivals.
+## Description:
 
-## 0.1
-- Initial Commit.
-- Upload starting files.
-
-## 0.2
-- Completed Title section of the web page
-
-## 0.3
-- 
+A parody app made with Bootstrap, HTML, CSS.
+This project was done to better understand Bootstrap and it's uses.
