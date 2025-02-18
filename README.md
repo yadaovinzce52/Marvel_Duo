@@ -15,3 +15,6 @@ This project was done to better understand Bootstrap and it's features.
 
 ### 0.3
  - Completed Features and Testimonal Section
+
+### Completed
+ - Completed Marvel Duo Frontend mockup
